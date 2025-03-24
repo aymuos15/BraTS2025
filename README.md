@@ -14,3 +14,9 @@ Downloading files: 100%|██████████████████�
 
 ![BraTS2025 Download Process](label_frequency.png)
 *Figure 1: Label Frequency across images disregarding UCSD data*
+
+![BraTS2025 Download Process](sample_case_with_labels.png)
+*Figure 2: Sample case 00002 with Labels on T1c*
+
+![BraTS2025 Download Process](sample_case_with_labels_3d.png)
+*Figure 2: Sample labels (in 3d) 00002*
